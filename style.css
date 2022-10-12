@@ -62,9 +62,9 @@
 }
 .background{
     background-image: url(./images/back1.jpg);
-    background-size: cover;
+    background-size:cover;
     padding-top: 8px;
-    padding-bottom: 30px;
+    padding-bottom:30px;
 }
 .slides1{
     border:3px solid black;

@@ -85,6 +85,9 @@
     border-radius: 5px;
 
 }
+.whyas{
+    margin: auto;
+}
 .pp{
     font-size: 13px;
 }
@@ -386,4 +389,39 @@ font-weight: 700;
 .ppa{
     font-size: 15px;
     line-height: 15px;
+}
+
+
+
+
+@media screen and (max-width:991px){
+    .secondnav{
+        display: none;
+    }
+    .foottt{
+        display:none;
+    }
+    .cardd{
+        margin: auto !important;
+    }
+    .crd{
+        margin: auto !important;
+    }
+    .why{
+        margin: auto !important;
+    }
+    .meeth4{
+        margin: auto !important; 
+    }
+    .imgfoot{
+        padding:5px !important;
+    }
+    .iconfoot{
+    
+        /* color:rgb(234, 70, 70)!important; */
+        padding:2px 0px 2px 0px !important;
+    }
+    .foothome1{
+        margin-top:0px !important;
+    }
 }

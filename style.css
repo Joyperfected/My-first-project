@@ -1,0 +1,389 @@
+*{
+    margin: 0 !important;
+    
+}
+.firstnav{
+    padding:5px 0px 5px 100px!important;
+    background-color: rgb(189, 57, 57) !important;
+}
+.search{
+    border-radius: 40px !important;
+    text-align: center !important;
+    padding: 0px !important;
+    height: 20px !important;
+    font-size: 12px !important;
+}
+.sea{
+    padding-left: 100px !important;
+}
+.navdiv{
+    padding:10px 0px 3px 200px !important;
+}
+.navlinkk{
+    color:white !important;
+    font-size:15px !important;
+}
+.navlinkk:hover{
+    background-color: white !important;
+    color: red !important;
+    border: 1px solid white !important;
+    border-radius: 8px !important;
+   
+}
+.btnn{
+    color:white !important;
+    border:1px solid white !important;
+    background-color: darkred !important;
+    padding:6px !important;
+    height: 30px !important;
+    border-radius: 12px !important;
+    font-size: 12px !important;
+}
+
+.open{
+    font-size: 25px !important;
+}
+.sub{
+    font-size: 12px !important;
+}
+.secondnav{
+    background-color: rgb(189, 57, 57) !important;
+    padding:5px 0px 5px 100px!important;
+}
+.secnav{
+    color:white !important;
+    font-size: 20px !important;
+    font-family:Arial, Helvetica, sans-serif !important;
+    padding: 10px !important;
+}
+.secnav:hover{
+    background-color: darkred;
+    border-radius: 10px;
+}
+.background{
+    background-image: url(./images/back1.jpg);
+    background-size: cover;
+    padding-top: 8px;
+    padding-bottom: 30px;
+}
+.slides1{
+    border:3px solid black;
+    
+}
+.background1{
+    background-color: rgb(73, 71, 71);
+}
+.season{
+    border:1px solid rgb(94, 90, 90);
+    background-color: rgb(94, 90, 90);
+    color: white;
+}
+.btnread{
+    background-color: red;
+    color:white;
+    border: 1px solid red;
+    border-radius: 5px;
+
+}
+.pp{
+    font-size: 13px;
+}
+.boys{
+    border:1px solid rgb(94, 90, 90);
+    background-color: rgb(94, 90, 90);
+}
+.sep{
+    background-color: rgb(94, 90, 90);
+    padding: 20px;
+}
+.sepbtn{
+    background-color:white;
+    color:red;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+.why{
+    background-color: rgb(94, 90, 90);
+    color: white;
+    font-size: 12px !important;
+    
+}
+.followus{
+    color:red !important;
+    font-weight: 700;
+
+}
+.iconn{
+    font-size: 50px;
+    color:red;
+    
+}
+.tweets{
+    color:red;
+    font-weight: 700;
+}
+.icontweet{
+    font-size: 20px;
+    color: rgb(66, 150, 178);
+}
+.tweetimg{
+    background-size:cover;
+    border: 1px solid white;
+}
+.twetimg{
+    border-radius: 15px;
+}
+.tweetdiv{
+    border-right: 1px solid #ece7e7;
+    border-bottom: 1px solid #ece7e7;
+    border-left: 1px solid #ece7e7;
+    border-top: 1px solid white;
+    padding: 10px;
+    /* box-shadow: 1px 1px 1px 1px #ece7e7; */
+}
+.tweetdiv:hover{
+    background-color: #f9f9f9;
+}
+.viewmore{
+    color:white !important;
+    text-decoration: none !important;
+    /* border-radius: 30px !important; */
+}
+.viewmorediv{
+    border: 1px solid #ece7e7;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+.viewm{
+    border-radius: 20px !important;
+}
+.meeth4{
+    color:red;
+    font-weight:600;
+}
+.meetborder{
+    /* border-top:1px solid #ece7e7;
+    border-bottom:1px solid #ece7e7;
+    border-left:1px solid #ece7e7; */
+    padding: 17px;
+}
+.meetbord{
+    /* border-top:1px solid #ece7e7;
+    border-bottom:1px solid #ece7e7;
+    border-right:1px solid #ece7e7; */
+    /* padding: 17px; */
+}
+.ath{
+    border: 1px solid #ece7e7;
+    padding: 15px;
+}
+.section3{
+    background-color: #f9f9f9;
+    border-top:1px solid #ece7e7
+}
+.sth3{
+    color:red;
+    font-weight: 600;
+}
+.sth3:hover{
+    color: darkblue;
+}
+.cardd{
+    border:1px solid #f9f9f9 !important;
+    background-color: #f9f9f9;
+}
+
+
+
+
+/* gallery */
+.photobord{
+    border:2px solid lightgrey !important;
+    padding:15px 15px 120px 15px !important;
+}
+.gallerysect{
+    background-color:#f9f9f9;
+}
+.galleryh2{
+    color:red;
+    font-weight: 600;
+}
+.hallow{
+    border: 1px solid red;
+    background-color: red;
+    color:white;
+    border-radius: 8px;
+    padding:3px;
+    font-size: 12px;
+}
+.hallow:hover{
+    border:1px solid white ;
+    background-color: white;
+    color:red;
+
+}
+.hallowh6{
+    font-size: 14px;
+    font-weight: 700;
+}
+.loadm{
+    border:1px solid red ;
+    background-color: red;
+    color:white;
+    border-radius: 8px;
+    padding:3px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.loadm:hover{
+    border:1px solid white ;
+    background-color: white;
+    color:red;
+
+}
+
+
+
+
+
+
+/* news page */
+.newsh1{
+    font-family: 'Courier New', Courier, monospace !important;
+
+}
+.subp:hover{
+    color:darkblue !important;
+}
+.foot{
+    background-color:rgb(61, 59, 59) !important;
+}
+.imgfoot{
+    padding: 15px !important;
+}
+.iconfoot{
+    
+    color:rgb(234, 70, 70)!important;
+    padding:28px 0px 28px 0px !important;
+}
+.icon{
+    font-size: 25px !important;
+
+}
+.foothome{
+    background-color: #333;
+    color: white;
+    font-size: 13px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-top:0px;
+    padding-bottom: 0px;
+}
+.foothome:hover{
+    border: 1px solid white;
+    background-color: red;
+}
+.foot2{
+    background-color: rgb(22, 21, 21);
+    /* border-bottom: 1px solid lightgray !important; */
+}
+.foot3{
+    background-color: rgb(22, 21, 21) !important;
+    color:white;
+    font-size: 10px;
+    padding-bottom: 15px !important;
+    padding-top: 10px !important;
+    border-top: 1px solid rgb(98, 94, 94);
+}
+
+
+
+
+/* calender */
+.sept{
+color:rgb(2, 2, 95);
+font-weight: 700;
+}
+.sep6{
+    background-color: rgb(222, 219, 219);
+    color:red;
+    font-weight: 700;
+    border:1px solid  rgb(222, 219, 219);
+    border-radius: 8px;
+}
+.us{
+    color:red;
+    font-weight: 700;
+    font-size: 14px;
+}
+.us:hover{
+    color:rgb(2, 2, 95);
+}
+.dotted{
+    border-bottom: 1px dotted rgb(188, 185, 185);
+}
+.nove{
+    border:1px solid;
+}
+.prev{
+    color:red
+}
+.sun{
+    background-color: red !important;
+    color:white !important
+}
+.calh5{
+    color:red;
+    font-weight: 700;
+}
+.btt:hover{
+    background-color:gray !important;
+    border: 1px solid gray !important;
+}
+
+
+
+/* apply now */
+.howt{
+    color:red;
+    font-weight: 700;
+}
+.ent{
+    font-weight: 700;
+    border-bottom:1px solid;
+}
+.onli{
+    color:red;
+    font-weight: 700;
+    border: 1px solid #f9f9f9;
+    background-color: #f9f9f9;
+    padding:8px;
+   
+}
+.sta{
+    font-size: 30px;
+    font-weight: 700;
+    color:white;
+    border: 1px solid red;
+    background-color: red;
+    padding-right:46px;
+    padding-left:46px;
+    
+}
+.conta{
+   color:red;
+   font-weight: 700;
+}
+.conta:hover{
+    color:darkblue;
+}
+.cont{
+    color:red;
+}
+.cont:hover{
+    color:darkblue;
+}
+.ppa{
+    font-size: 15px;
+    line-height: 15px;
+}
